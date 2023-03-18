@@ -9,6 +9,8 @@
 <p align="center">现有的博客框架支持：<a target="_black" href="https://github.com/MinMinGuGu/GuGu_Blog_Sync_Halo">Halo - GuGu_Blog_Sync_Halo</a></p>
 
 ## 特性
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FMinMinGuGu%2FGuGu_Blog_Sync.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FMinMinGuGu%2FGuGu_Blog_Sync?ref=badge_shield)
+
 
 - 文章使用Github仓库进行版本控制
 - 支持自定义处理Markdown文件更改时的动作
@@ -51,3 +53,7 @@
 ## 文档
 
 请转到 [Wiki](https://github.com/MinMinGuGu/GuGu_Blog_Sync/wiki)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FMinMinGuGu%2FGuGu_Blog_Sync.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FMinMinGuGu%2FGuGu_Blog_Sync?ref=badge_large)
